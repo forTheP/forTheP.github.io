@@ -1,0 +1,3 @@
+window.state = {
+    hello: 'world'
+}
